@@ -1,0 +1,2 @@
+# Apontamentos_IA_InteligenciaArtificial
+Fundamentos de Inteligência Artificial
